@@ -4,7 +4,7 @@
 - 교재: 파이썬 머신러닝 완벽 가이드
 - 기간: 20/01/13~20/03/28
 - 발표
-  - ch8. 텍스트 분석
+    - ch8. 텍스트 분석
     - 8.5 감정 분석: [jupyter notebook](./8_5_감성 분석_csg.ipynb)
     - 8.6 토픽 모델링: [ppt](https://drive.google.com/file/d/1saWyGmUetLHA2nfSrQ1B8IFbf2hBGzkN/view?usp=sharing) & [jupyter notebook](./8_6_토픽 모델링(Topic Modeling) - 20 뉴스그룹.ipynb)
     - 8.7 문서 군집화 소개와 실습: [jupyter notebook](./8_7_문서 군집화 소개와 실습_csg.ipynb)
