@@ -11,22 +11,21 @@
 
 ## 11기: 밑바닥부터 더 딥하게 배워보자 딥러닝
 - 교재: 밑바닥부터 시작하는 딥러닝2
-- 기간: 20/04/20~20/07/07
+- 기간: 20/04/20~20/07/07 (매주 화)
 - 발표
   - 8장 Attention
   - Paper: Attention is all you need
   - Paper: Bert
   
-
 ## 11.5기: beyond bert
 - 교재: NLP Paper
-- 기간: 20/06/13~20/08/29
+- 기간: 20/06/13~20/08/29 (매주 토)
 - 발표
   - [Data Augmentation using Pre-trained Transformer Models](https://arxiv.org/abs/2003.02245)
 
 ## 12기: 캐글과 함께하는 데이터 사이언스 첫걸음
 - 교재: Hands-on Machine Learning2
-- 기간: 20/07/16~20/09/22
+- 기간: 20/07/16~20/09/22 (매주 목->화)
 - 발표
   - CHAPTER 7 앙상블 학습과 랜덤 포레스트
   - CHAPTER 12 텐서플로를 사용한 사용자 정의 모델과 훈련
