@@ -34,11 +34,14 @@
   - ch12. 텐서플로를 사용한 사용자 정의 모델과 훈련: [jupyter notebook](./12_custom_models_and_training_with_tensorflow_교재_csg.ipynb)
   - ch13. 텐서플로에서 데이터 적재와 전처리하기: [jupyter notebook](./13_loading_and_preprocessing_data_교재_csg.ipynb)
   - [Kaggle] Credit Card Fraud Detection
-    - [jupyter notebook](./13_loading_and_preprocessing_data_교재_csg.ipynb)
     - https://www.kaggle.com/mlg-ulb/creditcardfraud
     - https://www.kaggle.com/joparga3/in-depth-skewed-data-classif-93-recall-acc-now)
     - 참고
-        - 핸즈온 비지도 학습 
+        - 핸즈온 비지도 학습
+            - ch2. End to end ML Project: [jupyter notebook](./02_end_to_end_machine_learning_project_신용카드사기검출_1.ipynb) -> 발표
+            - ch4. Anomaly Detection: [jupyter notebook](./04_anomaly_detection_신용카드사기검출_2.ipynb)
+            - ch7-8. Autoencoders: [jupyter notebook](./08_autoencoders_신용카드사기검출_3.ipynb)
+            - ch9. Semisupervised: [jupyter notebook](./09_semisupervised_신용카드사기검출_4.ipynb)
         - 파이썬 머신러닝 완벽가이드
         - 캐글 노트북
   
