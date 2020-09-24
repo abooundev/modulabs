@@ -33,8 +33,13 @@
   - ch7. 앙상블 학습과 랜덤 포레스트: [ppt](https://drive.google.com/file/d/11ZTBEnT7Ugohpg23sVj2uh-BMFULTSpr/view?usp=sharing)
   - ch12. 텐서플로를 사용한 사용자 정의 모델과 훈련: [jupyter notebook](./12_custom_models_and_training_with_tensorflow_교재_csg.ipynb)
   - ch13. 텐서플로에서 데이터 적재와 전처리하기: [jupyter notebook](./13_loading_and_preprocessing_data_교재_csg.ipynb)
-  - [Kaggle] Credit Card Fraud Detection: [ppt]
+  - [Kaggle] Credit Card Fraud Detection
+    - [jupyter notebook](./13_loading_and_preprocessing_data_교재_csg.ipynb)
     - https://www.kaggle.com/mlg-ulb/creditcardfraud
     - https://www.kaggle.com/joparga3/in-depth-skewed-data-classif-93-recall-acc-now)
+    - 참고
+        - 핸즈온 비지도 학습 
+        - 파이썬 머신러닝 완벽가이드
+        - 캐글 노트북
   
 
