@@ -20,8 +20,8 @@
   - [Paper] Attention is all you need: [ppt]
   - [Paper] Bert: [ppt]
   
-## 11.5기: beyond bert
-- 교재: NLP Paper
+## 11.5기: Beyond BERT
+- 교재: NLP Papers
 - 기간: 20/06/13~20/08/29 (매주 토)
 - 발표
   - [Paper] [Data Augmentation using Pre-trained Transformer Models](https://arxiv.org/abs/2003.02245) [markdown]
